@@ -1,0 +1,3 @@
+/home/santiago/Dropbox/Animacoes/the-fly-story/bin/CMakeFiles/rebuild_cache.dir
+/home/santiago/Dropbox/Animacoes/the-fly-story/bin/CMakeFiles/edit_cache.dir
+/home/santiago/Dropbox/Animacoes/the-fly-story/bin/CMakeFiles/main.dir

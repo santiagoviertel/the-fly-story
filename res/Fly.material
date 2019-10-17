@@ -1,0 +1,69 @@
+material Fly/Thorax
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.164706 0.301961 0.145098
+			diffuse 0.164706 0.301961 0.145098
+			specular 0.9 0.9 0.9 5000.0
+			emissive 0.0 0.0 0.0
+		}
+	}
+}
+
+material Fly/Abdomen
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.682353 0.603922 0.0901961
+			diffuse 0.682353 0.603922 0.0901961
+			specular 0.9 0.9 0.9 2400.0
+			emissive 0.0 0.0 0.0
+		}
+	}
+}
+
+material Fly/HeadSkin
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.117647 0.270588 0.117647
+			diffuse 0.117647 0.270588 0.117647
+			specular 1.0 1.0 1.0 5000.0
+			emissive 0.0 0.0 0.0
+		}
+	}
+}
+
+material Fly/Eyes
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.643137 0.0745098 0.0
+			diffuse 0.643137 0.0745098 0.0
+			specular 0.9 0.9 0.9 5000.0
+			emissive 0.0 0.0 0.0
+		}
+	}
+}
+
+material Fly/Legs
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157
+			diffuse 0.192157 0.192157 0.192157
+			specular 0.9 0.9 0.9 2500.0
+			emissive 0.0 0.0 0.0
+		}
+	}
+}
