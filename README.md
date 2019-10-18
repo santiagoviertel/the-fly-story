@@ -2,7 +2,7 @@
 
 An animation of a fly in a simple scenario.
 This program uses the [OGRE](https://www.ogre3d.org) graphic engine and some of its resources.
-Some resources are files of 3D models, textures and materials to the graphic objects: the __terrain__, the __Athene__, the __ogre head__, the __human head__, the __house__ and the __spaceship__.
+Some resources are files of 3D models, textures and materials to the graphic objects: the __terrain__, the __Athene__, the __ogre head__, the __human head__, the __house__, the __spaceship__ and the __sky dome__.
 The 3D model and material files of the fly are by [Filipe Leal](https://filipegamedev.itch.io).
 
 The terrain is build by an object of the implemented class __TerrainsManager__, that manages objects of __Ogre::Terrain__ and __Ogre::TerrainGroup__ classes.
