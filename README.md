@@ -1,3 +1,4 @@
+
 # The Fly Story
 
 An animation of a fly in a simple scenario.
@@ -34,7 +35,9 @@ __Close in fly__
 
 ## Technical information
 
+Add a __FileSystem__ pointing to the fly resources path (_res_ folder) in the _resources.cfg_ file, located in the __CMake build binaries__ path.
+
 - __Platform__: Linux
 - __Used library__: OGRE
 - __Programming language__: C++
-- __Last code change__: 2019
+- __Last code change__: 06/16/2020
